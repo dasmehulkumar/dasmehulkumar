@@ -101,12 +101,25 @@
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements
 
-- ✅ TRYHACKME - Web Fundamentals Certified  
-- 🎤 Presented multiple papers at International Conference  
-- 🧠 Active participant in Cybersecurity Hackathons  
-- 🚀 Building innovative security-focused solutions  
+- 🥇 **Top 4% Globally – TryHackMe**  
+  Demonstrated strong practical cybersecurity skills through hands-on labs and real-world challenges.
+
+- 🧠 **Ranked 11th – GeeksforGeeks (College Leaderboard)**  
+  Showcased consistent problem-solving ability and strong foundation in Data Structures & Algorithms using C++.
+
+- 🎤 **Selected Project Presenter – College Tech Expo**  
+  Presented a *Network Intrusion Detection System* to industry experts and academic professionals, including a visiting professor from IIT Kanpur.
+
+- 💡 **2nd Runner-Up – Idea Sprint (National Engineers’ Day 2025)**  
+  Presented **CivicConnect**, a crowdsourced civic issue reporting platform for faster resolution of public problems.
+
+- 🤝 **Selected Volunteer – College HR Symposium**  
+  Coordinated with HR professionals, managing logistics, communication, and event execution across all phases.
+
+- 🇮🇳 **National Level Finalist – KVS Ek Bharat Shreshtha Bharat Parv**  
+  Represented Lucknow Region in Group Singing after securing 1st place at the regional level.
 
 ---
 
@@ -114,7 +127,6 @@
 
 <p>
   <a href="https://linkedin.com/in/mehul-kumar-das-953490300"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:dasmehulkumaruk@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/dasmehulkumar"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
