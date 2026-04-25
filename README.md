@@ -8,10 +8,9 @@
 - 🎓 B.Tech CSE student under AKTU  
 - 🔐 Passionate about **Cybersecurity, Information Security & Secure Systems**
 - 💡 Strong Problem Solving foundation with C++ (DSA)
-- 🛠️ Building real-world projects like **SafeLink (Malicious Link Detector Chrome Extension)**  
+- 🏆 Second Runner-Up Idea Sprint
 - 📄 Actively publishing and presenting research papers  
-- 🧠 Interested in **AI + Security + Intelligent Systems**  
-- 🚀 Goal: To build impactful and secure digital solutions  
+- 🌱 Growth-Oriented, 💡 Curious, 🧠 Adaptive, 🤝 Collaborative 
 
 ---
 
