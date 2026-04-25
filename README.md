@@ -42,7 +42,6 @@
 
 ## 🛠️ Tech Stack & Skills
 
-## 🛠️ Skills
 
 <table>
 <tr>
