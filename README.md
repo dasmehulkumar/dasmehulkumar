@@ -62,10 +62,7 @@
   <img src="https://skillicons.dev/icons?i=linux,git,github" />
 </p>
 
-- 🔍 Vulnerability Analysis  
-- 🛡️ Secure Link Detection  
-- 🔐 Encryption (AES, RSA)  
-- 🌐 Web Security Basics  
+**Security Tools** : Wireshark, Nmap, Burpsuit
 
 ---
 
