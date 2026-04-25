@@ -66,23 +66,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🔹 SafeLink (Chrome Extension)
-- Detects malicious download links using **VirusTotal API**
-- Uses **honeypot simulation + user voting (Firebase)**
-- Enhances safe browsing experience
-
-### 🔹 SecureText
-- Text encryption/decryption tool
-- Supports **AES & RSA algorithms**
-- Includes key management system
-
-### 🔹 Developer Portfolio
-- Fully responsive personal portfolio website
-- Clean UI with project showcase
-
----
 
 ## 📊 GitHub Stats
 
