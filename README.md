@@ -15,8 +15,6 @@
 
 ## 📚 Research & Publications
 
-## 📚 Publications
-
 ### 📄 RF-Driven Security Analytics for Intrusion Detection in Critical Defense Systems
 - 🏢 Published in: **IEEE Xplore (2026)**
 - 🔍 Focus: RF-based intrusion detection using machine learning & anomaly detection
