@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mehul Kumar Das</h1>
-<h3 align="center">🚀 B.Tech CSE (AIML) | Cybersecurity Enthusiast | Researcher | Builder</h3>
+<h1 align="center">Hey 👋, I'm Mehul Kumar Das</h1>
+<h3 align="center">🚀 B.Tech CSE | Cybersecurity |Software Engineering | Researcher | Builder</h3>
 
 ---
 
