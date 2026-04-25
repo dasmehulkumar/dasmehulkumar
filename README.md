@@ -44,22 +44,22 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&perline=3" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
 </p>
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&perline=3" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 </p>
 
 ### 🛢️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&perline=2" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
 </p>
 
 ### 🔐 Cybersecurity Tools & Concepts
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github&perline=2" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
 </p>
 
 **Security Tools** : Wireshark, Nmap, Burpsuit
