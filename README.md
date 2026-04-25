@@ -119,7 +119,7 @@
 
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/mehul-kumar-das-953490300"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/dasmehulkumar"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
