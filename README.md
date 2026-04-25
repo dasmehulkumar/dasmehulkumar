@@ -6,7 +6,6 @@
 ## 🧑‍💻 About Me
 
 - 🎓 B.Tech CSE student under AKTU  
-- 🔐 Passionate about **Cybersecurity, Information Security & Secure Systems**
 - 💡 Strong Problem Solving foundation with C++ (DSA)
 - 🏆 Second Runner-Up Idea Sprint
 - 📄 Actively publishing and presenting research papers  
