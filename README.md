@@ -44,22 +44,22 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&perline=3" />
 </p>
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&perline=3" />
 </p>
 
 ### 🛢️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&perline=2" />
 </p>
 
 ### 🔐 Cybersecurity Tools & Concepts
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github&perline=2" />
 </p>
 
 **Security Tools** : Wireshark, Nmap, Burpsuit
@@ -98,11 +98,6 @@
 - 💡 **2nd Runner-Up – Idea Sprint (National Engineers’ Day 2025)**  
   Presented **CivicConnect**, a crowdsourced civic issue reporting platform for faster resolution of public problems.
 
-- 🤝 **Selected Volunteer – College HR Symposium**  
-  Coordinated with HR professionals, managing logistics, communication, and event execution across all phases.
-
-- 🇮🇳 **National Level Finalist – KVS Ek Bharat Shreshtha Bharat Parv**  
-  Represented Lucknow Region in Group Singing after securing 1st place at the regional level.
 
 ---
 
