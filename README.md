@@ -5,8 +5,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech CSE (AIML) student under AKTU  
-- 🔐 Passionate about **Cybersecurity, Information Security & Secure Systems**  
+- 🎓 B.Tech CSE student under AKTU  
+- 🔐 Passionate about **Cybersecurity, Information Security & Secure Systems**
+- 💡 Strong Problem Solving foundation with C++ (DSA)
 - 🛠️ Building real-world projects like **SafeLink (Malicious Link Detector Chrome Extension)**  
 - 📄 Actively publishing and presenting research papers  
 - 🧠 Interested in **AI + Security + Intelligent Systems**  
@@ -16,17 +17,31 @@
 
 ## 📚 Research & Publications
 
-- 📝 Presented **4 Research Papers** at *ICISESSC-2026 (International Conference)*  
-- 🔍 Research Areas:
-  - Cybersecurity & Secure Systems  
-  - AI-based Threat Detection  
-  - Intelligent Welfare Systems  
-- 📌 Working on:
-  - **AI Fake Scheme Detector**
-  - **Secure Link Verification Systems (VirusTotal based)**  
+## 📚 Publications
 
-> ⚡ *Actively aiming to publish more impactful research in security & intelligent systems.*
+### 📄 RF-Driven Security Analytics for Intrusion Detection in Critical Defense Systems
+- 🏢 Published in: **IEEE Xplore (2026)**
+- 🔍 Focus: RF-based intrusion detection using machine learning & anomaly detection
+- 📌 Highlights:
+  - Detects signal spoofing & unauthorized RF activities  
+  - Enhances security in mission-critical defense systems  
+  - Real-time monitoring of wireless environments  
+- 🔗 Paper Link: https://ieeexplore.ieee.org/document/11385910  
 
+---
+
+### 📄 Dynamic Browser Threat Detection Leveraging Multi-Engine Threat Analytics
+- 🏢 Published in: **IEEE Xplore (2026)**
+- 🔍 Focus: Real-time browser threat detection using multi-engine analytics  
+- 📌 Highlights:
+  - Combines signature-based, behavioral & anomaly detection  
+  - Detects phishing, malicious scripts & zero-day attacks  
+  - Improves detection accuracy through engine correlation  
+- 🔗 Paper Link: https://ieeexplore.ieee.org/document/11430060  
+
+---
+
+> 🚀 *Actively working on advanced research in Cybersecurity, AI-driven Threat Detection, and Secure Systems.*
 ---
 
 ## 🛠️ Tech Stack & Skills
