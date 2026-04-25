@@ -42,15 +42,41 @@
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Programming Languages & 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nodejs,express&perline=10" />
-</p>
+## 🛠️ Skills
 
-### 🛢️ Databases & 🔐 Tools / Other
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,linux,git,github&perline=6" />
-</p>
+<table>
+<tr>
+<td width="50%" align="left">
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
+
+</td>
+
+<td width="50%" align="right">
+
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="left">
+
+### 🛢️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+
+</td>
+
+<td width="50%" align="right">
+
+### 🔐 Tools & Other
+<img src="https://skillicons.dev/icons?i=linux,git,github" />
+
+</td>
+</tr>
+</table>
 
 **Security Tools** : Wireshark, Nmap, Burpsuit
 
