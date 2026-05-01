@@ -81,11 +81,12 @@
 
 ---
 
-## 🦖 Dino Game Mode
+## 🦖 Dino Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/dino.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/files/main/dino.gif" width="600" alt="dino"/>
 </p>
+
 
 ## 📊 GitHub Stats
 
