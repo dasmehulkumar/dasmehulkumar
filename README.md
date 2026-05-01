@@ -81,14 +81,11 @@
 
 ---
 
-## 🦖 Dino Game
+## 🦖 Dino Game Mode
 
 <p align="center">
-  <a href="https://elgoog.im/t-rex/">
-    <img src="https://raw.githubusercontent.com/saadeghi/files/main/dino.gif" width="600" alt="Play Dino Game"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/saadeghi/files/main/dino.gif" width="600"/>
 </p>
-
 
 ## 📊 GitHub Stats
 
