@@ -82,7 +82,7 @@
 ---
 ## 🦖 Dino Game
 
-![Dino Game](https://github.com/edent/SuperTinyIcons/raw/master/images/svg/chrome.svg)
+[![Play Dino](https://cdn.jsdelivr.net/gh/saadeghi/files@main/dino.gif)](https://elgoog.im/t-rex/)o Game](https://github.com/edent/SuperTinyIcons/raw/master/images/svg/chrome.svg)
 
 
 ## 📊 GitHub Stats
