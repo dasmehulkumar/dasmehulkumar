@@ -80,6 +80,9 @@
 **Security Tools** : Wireshark, Nmap, Burpsuit
 
 ---
+## 🦖 Dino Game
+
+![Dino Game](https://github.com/edent/SuperTinyIcons/raw/master/images/svg/chrome.svg)
 
 
 ## 📊 GitHub Stats
