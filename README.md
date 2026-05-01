@@ -80,6 +80,10 @@
 **Security Tools** : Wireshark, Nmap, Burpsuit
 
 ---
+## 🦖 Dino Game
+
+[![Play Dino](https://media.tenor.com/images/4b2a7c0a3f0d5d6a0f9b3b6a4c6c7e6d/tenor.gif)](https://elgoog.im/t-rex/)
+
 
 ## 📊 GitHub Stats
 
