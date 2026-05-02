@@ -90,13 +90,6 @@
   <img src="https://komarev.com/ghpvc/?username=dasmehulkumar&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasmehulkumar&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -116,6 +109,10 @@
 
 
 ---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/dasmehulkumar/dasmehulkumar/blob/output/github-contribution-grid-snake.svg)
 
 ## 🤝 Connect With Me
 
