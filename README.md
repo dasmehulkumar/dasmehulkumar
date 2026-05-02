@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Mehul Kumar Das</h1>
 
 <h3 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&width=900&lines=%F0%9F%9A%80+BTech+CSE+%7C+Cybersecurity+%7C+Software+Engineering+%7C+Researcher+%7C+IEEE+Student+Member&speed=60&pause=2000" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&center=true&vCenter=true&size=22&width=1200&lines=%F0%9F%9A%80%20B.Tech%20CSE%20%7C%20Cybersecurity%20%7C%20Software%20Engineering%20%7C%20Researcher%20%7C%20IEEE%20Student%20Member&speed=60&pause=2000" />
 </h3>
 ---
 
