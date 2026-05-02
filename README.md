@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Mehul Kumar Das</h1>
-<h3 align="center">🚀 B.Tech CSE | Cybersecurity | Software Engineering | Researcher | IEEE Student Member</h3>
 
+<h3 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&width=900&lines=%F0%9F%9A%80+BTech+CSE+%7C+Cybersecurity+%7C+Software+Engineering+%7C+Researcher+%7C+IEEE+Student+Member&speed=60&pause=2000" />
+</h3>
 ---
 
 ## 🧑‍💻 About Me
@@ -143,5 +145,6 @@
   ⭐️ If you like my work, consider giving a star to my repositories!
 </p>
 ---
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0000FF&height=120&section=footer"/>
