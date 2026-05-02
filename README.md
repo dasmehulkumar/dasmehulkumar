@@ -122,6 +122,8 @@
 
 ![snake gif](https://github.com/dasmehulkumar/dasmehulkumar/blob/output/github-contribution-grid-snake.svg)
 
+
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -140,3 +142,6 @@
 <p align="center">
   ⭐️ If you like my work, consider giving a star to my repositories!
 </p>
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0000FF&height=120&section=footer"/>
