@@ -113,7 +113,7 @@
 
 <p align="center">
   <a href="https://elgoog.im/t-rex/">
-    <img src="./assets/dino.gif" width="500" alt="Play Dino Game"/>
+    <img src="./assets/dino.gif" width="1000" alt="Play Dino Game"/>
   </a>
 </p>
 
