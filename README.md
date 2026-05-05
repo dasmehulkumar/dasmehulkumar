@@ -73,7 +73,7 @@
 <td width="50%" align="right">
 
 ### 🔐 Tools & Other
-<img src="https://skillicons.dev/icons?i=linux,git,github" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,latex" />
 
 </td>
 </tr>
