@@ -87,6 +87,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dasmehulkumar&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasmehulkumar&theme=tokyonight" />
   <img src="https://komarev.com/ghpvc/?username=dasmehulkumar&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
