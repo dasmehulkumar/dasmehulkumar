@@ -87,6 +87,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dasmehulkumar&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasmehulkumar&theme=tokyonight" />
   <img src="https://komarev.com/ghpvc/?username=dasmehulkumar&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
@@ -134,7 +135,6 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dasmehulkumar&show_icons=true&theme=tokyonight" />
   <a href="https://linkedin.com/in/mehul-kumar-das-953490300"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/dasmehulkumar"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
