@@ -134,6 +134,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dasmehulkumar&show_icons=true&theme=tokyonight" />
   <a href="https://linkedin.com/in/mehul-kumar-das-953490300"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/dasmehulkumar"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
